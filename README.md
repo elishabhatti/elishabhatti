@@ -5,6 +5,9 @@
 
 Passionate about creating modern, functional websites and web applications.  
 
+
+![snake gif](https://github.com/elishabhatti/elishabhatti/blob/output/github-snake-dark.svg)
+
 ---
 
 ## 🚀 About Me

@@ -1,75 +1,71 @@
-# 👋 Hi there, I'm Elisha Bhatti — Web Developer & Tech Enthusiast!
+Hi there, I'm Elisha Bhatti! 👋
+Web Developer & Coding Enthusiast 💻✨
+Welcome to my GitHub profile! I'm passionate about building beautiful, functional web applications and constantly expanding my skills in the ever-evolving world of web development.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C9A7&vCenter=true&width=435&lines=Full-Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+ASP.NET+Core;Tech+Lover+%7C+Lifelong+Learner+%7C+Open+Source+Supporter)](https://git.io/typing-svg)
+🔥 Current Focus
+🌐 Mastering modern JavaScript frameworks (React, Vue, Angular)
 
----
+🚀 Building scalable backend systems with Node.js
 
-## 🧠 About Me
+🎨 Creating stunning UI/UX designs
 
-- 🔭 Currently working on **E-Commerce Platforms, Authentication Systems, and UI/UX Animations**
-- 🌱 Learning: `Next.js`, `TypeScript`, `Microservices`, `Cloud Hosting (Vercel, Render)`
-- 💬 Ask me about: `React`, `Express.js`, `ASP.NET Core`, `OAuth`, `JWT`, `Database Design`, and more!
-- 📫 How to reach me: **elishabhatti.dev@gmail.com**
-- ⚡ Fun fact: I love turning complex backend logic into clean, user-friendly frontend experiences 🚀
+🤖 Exploring AI integration in web apps
 
----
+🛠️ Tech Stack
+Frontend:
+https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3
+https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
+https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css
 
-## 🚀 Tech Stack
+Backend:
+https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
+https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white
+https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+Tools:
+https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
+https://img.shields.io/badge/-VS%2520Code-007ACC?style=flat-square&logo=visual-studio-code
+https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+🌱 What I'm Learning
+Advanced React patterns
 
-**Database & Auth:**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-5A67D8?style=for-the-badge)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
-![OAuth](https://img.shields.io/badge/-OAuth-2C6EB2?logo=oauth&logoColor=white&style=for-the-badge)
+GraphQL implementations
 
-**Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+Web3 and blockchain basics
 
----
+Performance optimization techniques
 
-## 📊 GitHub Stats
+💡 Projects Spotlight
+Project Alpha - A revolutionary e-commerce platform
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elishabhatti&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elishabhatti&layout=compact&theme=radical" height="165" />
-</p>
+DevConnect - Social network for developers
 
----
+TaskMaster Pro - Ultimate productivity app
 
-## 🐍 GitHub Activity Snake
+📫 Let's Connect!
+https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin
+https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter
+https://img.shields.io/badge/-Portfolio-FF7139?style=flat-square
 
-![snake gif](https://github.com/elishabhatti/elishabhatti/blob/output/github-snake-dark.svg)
+⚡ Fun Facts
+🎮 Avid gamer in my free time
 
----
+☕ Can't start coding without my morning coffee
 
-## 💼 Projects Showcase (Coming Soon)
+🌍 Loves to travel and explore new cultures
 
-| Project Name       | Stack                          | Description                         |
-|--------------------|-------------------------------|-------------------------------------|
-| 🔐 AuthX           | Node.js, JWT, Drizzle ORM      | Advanced authentication system with OAuth, verification, password reset |
-| 🛒 SwiftCart       | ASP.NET Core MVC, MySQL        | E-commerce web app with cart & checkout flow |
-| 🌐 Reactfolio      | React, GSAP, Framer Motion     | Animated personal portfolio site    |
+🎸 Learning to play guitar (badly)
 
----
+https://visitor-badge.laobi.icu/badge?page_id=elishabhatti.elishabhatti
 
-## 🌍 Let's Connect
+https://github.com/elishabhatti/elishabhatti/blob/output/github-contribution-grid-snake-dark.svg
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/elisha-bhatti/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/elishabhatti/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:elishabhatti.dev@gmail.com)
-
----
+while(alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}

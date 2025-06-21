@@ -42,7 +42,7 @@ Take a look at my GitHub activity:
 ### 📫 Let's Connect!
 
 I'm always open to new opportunities and collaborations. Feel free to reach out!
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/elisha-jameel/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/elisha-jameel/)
 - **Email:** elishajameel270@gmail.com
 
 ---

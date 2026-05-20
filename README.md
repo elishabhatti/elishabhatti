@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Elisha Bhatti!
+### 👋 Hi there, I'm Elisha Jameel!
 
 ---
 

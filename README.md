@@ -1,28 +1,32 @@
 <h1 align="center">Hi, I'm Elisha 👋</h1>
-<h3 align="center">Full-Stack Engineer · MERN · Building the video layer of Strug</h3>
+<h3 align="center">Full-Stack Engineer · MERN · Video Systems & Real-Time Platforms</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%40+Codezero;Owns+the+Video+Pipeline+on+Strug;MERN+%7C+Azure+%7C+HLS+%7C+System+Design;Debugs+first%2C+ships+after" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;Video+Pipelines+%7C+Azure+%7C+HLS;Self-Taught+%E2%86%92+Production+Engineer;Debugs+first%2C+ships+after" alt="Typing SVG" />
 </p>
 
 <br>
 
-### 🚀 What I Do
+### 🚀 What I Build
 
-I'm a full-stack engineer working full-time on **Strug**, a video-sharing and social platform — I own the video section end-to-end and have shipped:
+Full-stack systems end to end — from database schema to pixels on screen. My core strength is **video infrastructure and real-time social features**:
 
-- 🎥 **Core video pipeline** — Azure Blob Storage + HLS streaming
-- 📊 **Creator Dashboard** — analytics, KPI cards, trend & donut charts
-- 🌐 **Community** — Reddit-style threads, voting, nested comments
-- 🗣️ **Town Hall** — Twitter/X-style feed with a weighted trending algorithm
-- 📱 **Stories** — auto-advance, segmented progress, video support
-- 🛡️ **Admin Dashboard** — KYC workflows, verification, role management
+- 🎥 **Video pipelines** — chunked uploads, HLS streaming, Azure Blob Storage
+- 📊 **Analytics dashboards** — KPI tracking, trend charts, engagement metrics
+- 🌐 **Social & community systems** — threaded discussions, voting, feeds
+- 🗣️ **Ranking algorithms** — weighted trending/hot-score systems with time decay
+- 🛡️ **Admin & moderation tooling** — verification workflows, role-based access
 
 <br>
 
-### 🧠 Currently Sharpening
+### 🧠 What I've Been Learning
 
-Deepening my system design intuition — going concept-first through hands-on builds before wiring anything into production. Focused on becoming dangerously good at debugging, architecture, and scale.
+- **System Design** — going concept-first through hands-on builds (queues, caching, DB internals, scaling patterns) before touching production
+- **Debugging as a discipline** — hypothesis-first approach, keeping a bug log instead of trial-and-error
+- **Backend depth** — Node/Express internals, Prisma & PostgreSQL optimization
+- **Frontend internals** — React rendering behavior, state management at scale
+
+Self-directed learner by default — I build small projects to actually internalize a concept before I trust myself with it in real systems.
 
 <br>
 
@@ -66,4 +70,4 @@ Martial artist (kicks, bo staff, nunchucks) · Calisthenics · Deep in DC Animat
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Recruited off my GitHub activity, not a job app. Still building for the next one.</i></p>
+<p align="center"><i>Got noticed for my GitHub activity, not a job application. Still building like that's the standard.</i></p>

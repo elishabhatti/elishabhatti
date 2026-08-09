@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="280">
-
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="280">
+  
 <br>
 
 # Greetings, wanderer! I'm ELISHA! 🔥
